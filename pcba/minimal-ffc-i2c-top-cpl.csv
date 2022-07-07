@@ -1,0 +1,4 @@
+﻿Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J2,Conn_01x12_Female,FPC-SMD_FPC05012-09200-.5mm-rev,111.75,-92.158,180,top
+R1,4k7,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,111,-96,180,top
+R2,4k7,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,114.75,-96,0,top
