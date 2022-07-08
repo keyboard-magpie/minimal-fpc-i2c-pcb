@@ -4,3 +4,5 @@ Minimal adapter board for converting keyboard i2c oled pins to ffc/fpc ribbon ca
 
 
 Connector used is this one from LCSC: https://lcsc.com/product-detail/FFC-FPC-Connectors_SHENZHEN-ATOM-TECH-FPC05012-09200_C479750.html (I am looking for a digikey equivalent)
+
+To use the TM035035 and TM040040 with 5v controllers, on the back trackpad, remove R1 for I2C, and remove R7 and R8 for 5V (leave these if using with 3v3 controllers i.e. rp2040.
