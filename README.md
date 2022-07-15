@@ -3,8 +3,14 @@ Minimal adapter board for converting keyboard i2c oled pins to ffc/fpc ribbon ca
 <img width="841" alt="Screenshot_2022-07-07_at_13 14 48" src="https://user-images.githubusercontent.com/19674258/177773317-9b9e2e26-6b3b-4478-bfce-c52ee5c3ee93.png">
 
 
-Connector used is this one from LCSC: https://lcsc.com/product-detail/FFC-FPC-Connectors_SHENZHEN-ATOM-TECH-FPC05012-09200_C479750.html (I am looking for a digikey equivalent)
 
+# how to use
 To use the TM035035 and TM040040 with 5v controllers, on the back trackpad, remove R1 for I2C, and remove R7 and R8 for 5V (leave these if using with 3v3 controllers i.e. rp2040.
 
+# holders
 In the holders folder you will find holders for the 40mm cirque for popular keyboards!
+
+# production
+Please note there is a small error in the cpl file for the ffc connector that comes from the footprint for it. JLC should correct its placement for you.
+
+Connector used is this one from LCSC: https://lcsc.com/product-detail/FFC-FPC-Connectors_SHENZHEN-ATOM-TECH-FPC05012-09200_C479750.html (I am looking for a digikey equivalent)
