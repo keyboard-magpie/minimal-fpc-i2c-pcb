@@ -13,4 +13,6 @@ In the holders folder you will find holders for the 40mm cirque for popular keyb
 # production
 Please note there is a small error in the cpl file for the ffc connector that comes from the footprint for it. JLC should correct its placement for you.
 
-Connector used is this one from LCSC: https://lcsc.com/product-detail/FFC-FPC-Connectors_SHENZHEN-ATOM-TECH-FPC05012-09200_C479750.html (I am looking for a digikey equivalent)
+Connector used is this one from LCSC: https://lcsc.com/product-detail/FFC-FPC-Connectors_SHENZHEN-ATOM-TECH-FPC05012-09200_C479750.html
+
+A digikey part suggested by u/idyllic on discord is Hirose  FH12-12S-0.5SH(55) https://www.digikey.co.uk/en/products/detail/hirose-electric-co-ltd/FH12-12S-0.5SH-55/1110374 which looks to have a footprint that is very close the the LCSC part above and should be compatible.
