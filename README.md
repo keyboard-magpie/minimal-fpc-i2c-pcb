@@ -18,4 +18,4 @@ Connector used is this one from LCSC: https://lcsc.com/product-detail/FFC-FPC-Co
 A digikey part suggested by u/idyllic on discord is Hirose  FH12-12S-0.5SH(55) https://www.digikey.co.uk/en/products/detail/hirose-electric-co-ltd/FH12-12S-0.5SH-55/1110374 which looks to have a footprint that is very close the the LCSC part above and should be compatible.
 
 # ffc/fpc cables
-Any generic flat flex cable can be used, they are 12 position, 0.5mm pitch, same-sided contacts. The molex extra flex series from mouser seem to work well.
+Any generic flat flex cable can be used, they are 12 position, 0.5mm pitch, same-sided contacts. The molex extra flex and primo flex series from mouser seem to work well.
