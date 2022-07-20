@@ -16,3 +16,6 @@ Please note there is a small error in the cpl file for the ffc connector that co
 Connector used is this one from LCSC: https://lcsc.com/product-detail/FFC-FPC-Connectors_SHENZHEN-ATOM-TECH-FPC05012-09200_C479750.html
 
 A digikey part suggested by u/idyllic on discord is Hirose  FH12-12S-0.5SH(55) https://www.digikey.co.uk/en/products/detail/hirose-electric-co-ltd/FH12-12S-0.5SH-55/1110374 which looks to have a footprint that is very close the the LCSC part above and should be compatible.
+
+# ffc/fpc cables
+Any generic flat flex cable can be used, they are 12 position, 0.5mm pitch, same-sided contacts.
