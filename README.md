@@ -16,8 +16,8 @@ Please note there is a small error in the cpl file for the ffc connector that co
 Connector used is this one from LCSC: https://lcsc.com/product-detail/FFC-FPC-Connectors_SHENZHEN-ATOM-TECH-FPC05012-09200_C479750.html
 
 # alternative FPC connectors: 
-https://www.digikey.co.uk/en/products/detail/hirose-electric-co-ltd/FH12-12S-0.5SH-55/1110374 
-https://www.digikey.co.uk/en/products/detail/gct/FFC2B35-12-G/15970866
+https://www.digikey.co.uk/en/products/detail/hirose-electric-co-ltd/FH12-12S-0.5SH-55/1110374 \
+https://www.digikey.co.uk/en/products/detail/gct/FFC2B35-12-G/15970866 \
 Both of the above were suggested by u/idyllic on discord and look to have a footprint that is very close the the LCSC part above and should be compatible.
 
 # ffc/fpc cables
