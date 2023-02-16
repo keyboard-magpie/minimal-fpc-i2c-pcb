@@ -8,7 +8,7 @@ Minimal adapter board for converting keyboard i2c oled pins to ffc/fpc ribbon ca
 To use the TM035035 and TM040040 with 5v controllers, on the back trackpad, remove R1 for I2C, and remove R7 and R8 for 5V (leave these if using with 3v3 controllers i.e. rp2040.
 
 # holders
-In the holders folder you will find holders for the 40mm cirque for popular keyboards!
+In the holders folder you will find holders for the curved overlays (35 and 40mm- please note there was an earlier misnaming of these files which I have corrected as of 16 Feb 2023).
 
 # production
 Please note there is a small error in the cpl file for the ffc connector that comes from the footprint for it. JLC should correct its placement for you.
